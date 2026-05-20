@@ -1,0 +1,7 @@
+# All five scripts use only the Python standard library — no third-party
+# packages are required. This file is kept as a placeholder so the project
+# is ready to grow. Add dependencies below, one per line, e.g.:
+#
+#   requests==2.32.3
+#
+# Then install them with:  pip install -r requirements.txt
